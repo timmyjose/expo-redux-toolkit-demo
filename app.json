@@ -12,13 +12,15 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.timmyjose.exporeduxtoolkitdemo"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.timmyjose.exporeduxtoolkitdemo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
